@@ -20,11 +20,11 @@ Extract Hahn.ApplicatonProcess.Application.zip.
 Note: npm is configured in project file
 
 If you want to run npm mannualy, navigate into "Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Web"
-//for development build
-Run> npm run build:dev 
+for development build
+> npm run build:dev 
 
-//for production build
-Run> npm run build 
+for production build
+> npm run build 
 
 ##Screens Overview
 
@@ -56,9 +56,9 @@ Run> npm run build
 Right click on "Hahn.ApplicatonProcess.May2020.Web" choose publish.
 
 ## Uncompleted Task
-- when the user has touched a field but afterwards deleted all entries, the reset button is also not enabled.
+1. when the user has touched a field but afterwards deleted all entries, the reset button is also not enabled.
 
 ##Improvements
--Place holders are not under localization
--Spinner is not added to block the UI while making http request
+1.Place holders are not under localization
+2.Spinner is not added to block the UI while making http request
 
