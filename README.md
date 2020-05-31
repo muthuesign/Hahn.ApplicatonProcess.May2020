@@ -19,8 +19,7 @@ Extract Hahn.ApplicatonProcess.Application.zip.
 
 Note: npm is configured in project file
 
-If you want to run npm, navigate into "Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Web"
-
+If you want to run npm mannualy, navigate into "Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.May2020.Web"
 //for development build
 Run> npm run build:dev 
 
@@ -51,20 +50,12 @@ Run> npm run build
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/to-go-view.png" width="900" />
 
 ## Publishing
-
-1. Bump the version
-  
-  ```shell
-  npm run bump-version [<newversion> | major | minor | patch]
-  ```
-
-2. Prepare the release (run tests, run build, docs, release notes)
-  
-  ```shell
-  npm run cut-release
-  ```
+Right click on "Hahn.ApplicatonProcess.May2020.Web" choose publish.
 
 ## Uncompleted Task
-
 - when the user has touched a field but afterwards deleted all entries, the reset button is also not enabled.
+
+##Improvements
+-Place holders are not under localization
+-Spinner is not added to block the UI while making http request
 
