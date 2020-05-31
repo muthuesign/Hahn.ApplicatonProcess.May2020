@@ -14,7 +14,7 @@ Download [Zip](https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020)
 Extract Hahn.ApplicatonProcess.Application.zip.
 1. Open Solution from extracted folder "Hahn.ApplicatonProcess.Application.sln" in Microsft Visual Studio 2019
 2. Make sure "Hahn.ApplicatonProcess.May2020.Web" is selected as Startup Project
-	<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/SolutionSetup.jpg" width="800" />
+	<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/SolutionSetup.JPG" width="800" />
 3. Just press F5 to build(including npm) and run the application
 
 Note: npm is configured in project file
