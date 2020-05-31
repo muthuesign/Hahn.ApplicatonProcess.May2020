@@ -36,18 +36,18 @@ Run> npm run build
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/valid_form.JPG" width="900" />
 
 3. New Applicant (with validation errors)
-<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/not_valid.JPG" width="900" />
+<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/not_valid.JPG" width="500" />
 
-3. New Applicant (after language change. Place holders are not under localization yet)
-<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/after-lng-change.JPG" width="500" />
+4. New Applicant (after language change. Place holders are not under localization yet)
+<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/after-lng-change.JPG" width="900" />
 
-4. New Applicant (Reset popup)
+5. New Applicant (Reset popup)
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/reset.JPG" width="500" />
 
-5. Applicant Details (after adding)
+6. Applicant Details (after adding)
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/view.JPG" width="500" />
 
-6. To go to edit view from list
+7. To go to edit view from list
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/to-go-view.png" width="900" />
 
 ## Publishing
