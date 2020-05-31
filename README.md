@@ -30,7 +30,7 @@ Run> npm run build
 ##Screens Overview
 
 1. Home page will appear like below (red highlighted are options)
-![](https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/Home.jpg | width=900)
+<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/Home.jpg" width="900" />
 
 2. New Applicant (with valid data)
 ![](https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/valid_form.JPG | width=900)
