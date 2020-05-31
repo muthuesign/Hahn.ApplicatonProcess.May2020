@@ -49,6 +49,9 @@ Run> npm run build
 7. To go to edit view from list
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/to-go-view.png" width="900" />
 
+8. Serilog
+<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/serilog.JPG" width="500" />
+
 ## Publishing
 Right click on "Hahn.ApplicatonProcess.May2020.Web" choose publish.
 
