@@ -36,7 +36,7 @@ Run> npm run build
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/valid_form.JPG" width="900" />
 
 3. New Applicant (with validation errors)
-<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/not_valid.JPG" width="500" />
+<img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/not_valid.JPG" width="900" />
 
 3. New Applicant (after language change. Place holders are not under localization yet)
 <img src="https://github.com/muthuesign/Hahn.ApplicatonProcess.May2020/blob/master/Docs/after-lng-change.JPG" width="500" />
